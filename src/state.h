@@ -4,18 +4,18 @@
 #include "entity.h"
 
 #define PLAYER_HP  10
-#define PLAYER_RAD 10
+#define PLAYER_RAD 50
 #define PLAYER_SPEED 4
 #define PLAYER_COOLDOWN 8
 
-#define MINION_HP   4
-#define MINION_RAD 12
-#define BRUTE_HP   12
-#define BRUTE_RAD  16
+#define MINION_HP  12
+#define MINION_RAD 50
+#define BRUTE_HP   20
+#define BRUTE_RAD  50
 
 #define BULLET_DMG 3
-#define BULLET_SPEED 16
-#define BULLET_RAD   5
+#define BULLET_SPEED 8
+#define BULLET_RAD   15
 
 
 // ==== PLAYER DEFINITION
